@@ -1,0 +1,288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fore",
+				"foreign"
+			],
+			[
+				"mes",
+				"message_id"
+			],
+			[
+				"Http",
+				"HttpException"
+			],
+			[
+				"other",
+				"other"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"request",
+				"request"
+			],
+			[
+				"f",
+				"fun\tfunction …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 165.0,
+		"last_filter": "Package Control: insta",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Blade",
+				"Build: Cancel"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/routes/web.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/assets/js/app.js",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/Message.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/database/factories/UserFactory.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/views/layouts/app2.blade.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/Response.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/database/migrations/2018_01_05_165303_create_responses_table.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/views/layouts/app.blade.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/Http/Controllers/MessagesController.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/tests/Feature/ExampleTest.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/tests/Feature/UsersTest.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/package.json",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/assets/js/bootstrap.js",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/assets/sass/app.scss",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/tests/Unit/ExampleTest.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/assets/sass/_variables.scss",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/database/seeds/DatabaseSeeder.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/node_modules/bootstrap/dist/js/bootstrap.js",
+		"/Users/wilsonperez/Desktop/proyectos/brokers/backendInstance/app/controllers/business.js",
+		"/Users/wilsonperez/Desktop/proyectos/brokers/backendInstance/app/controllers/insurance.js",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/Http/Requests/CreateMessageRequest.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/views/messages/index.blade.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/.env",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/config/scout.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/config/app.php",
+		"/Users/wilsonperez/Desktop/proyectos/brokers/frontendInstances/src/config/project-config.ts",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/views/welcome.blade.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/views/messages/message.blade.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/views/errors/404.blade.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/views/messages/show.blade.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/Http/Controllers/UserController.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/views/users/conversation.blade.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/PrivateMessage.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/Providers/AuthServiceProvider.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/views/users/show.blade.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/Conversation.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/views/auth/login.blade.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/views/users/facebook.blade.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/User.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/SocialProfile.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/Http/Controllers/SocialAuthController.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/database/migrations/2017_12_29_150719_create_conversation_user_table.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/database/migrations/2017_12_29_150531_create_private_messages_table.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/database/migrations/2017_12_29_150511_create_conversations_table.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/database/migrations/2017_12_29_141643_create_social_profiles_table.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/config/services.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/database/migrations/2017_12_28_203437_create_followers_table.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/views/auth/register.blade.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/database/migrations/2017_12_28_172254_add-user_id_colum_to_messages_table.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/database/migrations/2017_12_28_170446_add_username_and_avatar_to_users_table.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/database/migrations/2017_12_27_192331_add_created_at_index_to_messages_table.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/app/Providers/AppServiceProvider.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/database/migrations/2017_12_27_190958_create_messages_table.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/.env.example",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/wilsonperez/Desktop/proyectos/laravel/laratter/resources/views/about.blade.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webpack.mix.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
